@@ -1,5 +1,5 @@
 from spl.token.instructions import close_account, CloseAccountParams
-from spl.token.client import Token
+from spl.token.client import Token 
 from spl.token.core import _TokenCore
    
 from solana.rpc.commitment import Commitment 
@@ -118,3 +118,4 @@ def buy(solana_client, TOKEN_TO_SWAP_BUY, payer, amount):
         except:
             txnBool = False
             return "failed"
+
